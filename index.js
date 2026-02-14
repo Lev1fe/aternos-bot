@@ -27,7 +27,7 @@ function log(msg) {
 
 // 🎲 Generate new name
 function randomUsername() {
-  return 'BOT_' + Math.floor(Math.random() * 100000);
+  return 'Blud_BOT' ;
 }
 
 // 🤖 Infinite bot reconnect loop
